@@ -15,3 +15,13 @@
 
 
 
+
+CASANDRA 
+
+kom ihåg ändringar, gör i nya modern. 
+
+chart_h1 color black 
+
+footer link color grey 
+
+footer hight:20vh
