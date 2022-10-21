@@ -1,8 +1,6 @@
 # insurance-project
 
 
-Github Pages: https://holacarmensita.github.io/insurance-project/
-
 * Två sidor, Home och Contact
 
 * Layout och färger liknande mock
@@ -11,9 +9,9 @@ Github Pages: https://holacarmensita.github.io/insurance-project/
 
 * Mobilanpassad
 
-* Publicerad på github pages.
+* Publicerad på github pages: https://holacarmensita.github.io/insurance-project/
 
-* 100% SEO i Lighthouse. 
+* 100% SEO i Lighthouse: SEO/Lighthouse rapport.pdf
 
 
 
