@@ -189,7 +189,7 @@ font-size p, button: 1rem
 .footer_contact {
   display: none;
   background-color: #777574;
-  height: 30vmax;
+  height: 20vmax;
 }
 
 .footer {
@@ -201,7 +201,7 @@ font-size p, button: 1rem
 }
 
 .footer_content {
-  height: 30vmax;
+  height: 20vmax;
 }
 
 @media screen and (min-width: 768px) {
