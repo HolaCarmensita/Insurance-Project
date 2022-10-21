@@ -93,6 +93,7 @@ font-size p, button: 1rem
   font-size: 3rem;
   margin: 0.5em;
   opacity: 0.8;
+  color: #000000;
 }
 
 .chart_p {
