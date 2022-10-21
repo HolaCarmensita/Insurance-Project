@@ -373,7 +373,7 @@ font-size h3:
 font-size p, button: 1rem
 */
 .map {
-  background-image: url('../img/map.png);
+  background-image: url(img/map.png);
   min-height: 70vh;
   background-size: cover;
   background-position: center;
