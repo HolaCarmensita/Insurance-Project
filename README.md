@@ -11,7 +11,7 @@
 
 * Publicerad på github pages: https://holacarmensita.github.io/insurance-project/
 
-* 100% SEO i Lighthouse: SEO/Lighthouse rapport.pdf
+* 100% SEO i Lighthouse: https://github.com/HolaCarmensita/insurance-project/blob/main/SEO/Lighthouse%20rapport.pdf
 
 
 
